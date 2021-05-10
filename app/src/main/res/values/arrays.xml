@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="names">
+        <item>@array/playerImages</item>
+        <item>@array/club</item>
+        <item>@array/diamond</item>
+        <item>@array/heart</item>
+        <item>@array/spade</item>
+    </array>
+
+    <array name="playerImages">
+        <item>@drawable/player_img_donkey</item>
+        <item>@drawable/player_img_bull</item>
+        <item>@drawable/player_img_cat</item>
+        <item>@drawable/player_img_duck</item>
+        <item>@drawable/player_img_giraffe</item>
+        <item>@drawable/player_img_snake</item>
+        <item>@drawable/player_img_tiger</item>
+        <item>@drawable/player_img_unicorn</item>
+        <item>@drawable/player_img_zebra</item>
+    </array>
+
+    <array name="diamond">
+        <item>@drawable/card_diamond2</item>
+        <item>@drawable/card_diamond3</item>
+        <item>@drawable/card_diamond4</item>
+        <item>@drawable/card_diamond5</item>
+        <item>@drawable/card_diamond6</item>
+        <item>@drawable/card_diamond7</item>
+        <item>@drawable/card_diamond8</item>
+        <item>@drawable/card_diamond9</item>
+        <item>@drawable/card_diamond10</item>
+        <item>@drawable/card_diamond11</item>
+        <item>@drawable/card_diamond12</item>
+        <item>@drawable/card_diamond13</item>
+        <item>@drawable/card_diamond14</item>
+    </array>
+
+    <array name="club">
+        <item>@drawable/card_club2</item>
+        <item>@drawable/card_club3</item>
+        <item>@drawable/card_club4</item>
+        <item>@drawable/card_club5</item>
+        <item>@drawable/card_club6</item>
+        <item>@drawable/card_club7</item>
+        <item>@drawable/card_club8</item>
+        <item>@drawable/card_club9</item>
+        <item>@drawable/card_club10</item>
+        <item>@drawable/card_club11</item>
+        <item>@drawable/card_club12</item>
+        <item>@drawable/card_club13</item>
+        <item>@drawable/card_club14</item>
+    </array>
+
+    <array name="heart">
+        <item>@drawable/card_heart2</item>
+        <item>@drawable/card_heart3</item>
+        <item>@drawable/card_heart4</item>
+        <item>@drawable/card_heart5</item>
+        <item>@drawable/card_heart6</item>
+        <item>@drawable/card_heart7</item>
+        <item>@drawable/card_heart8</item>
+        <item>@drawable/card_heart9</item>
+        <item>@drawable/card_heart10</item>
+        <item>@drawable/card_heart11</item>
+        <item>@drawable/card_heart12</item>
+        <item>@drawable/card_heart13</item>
+        <item>@drawable/card_heart14</item>
+    </array>
+
+    <array name="spade">
+        <item>@drawable/card_spade2</item>
+        <item>@drawable/card_spade3</item>
+        <item>@drawable/card_spade4</item>
+        <item>@drawable/card_spade5</item>
+        <item>@drawable/card_spade6</item>
+        <item>@drawable/card_spade7</item>
+        <item>@drawable/card_spade8</item>
+        <item>@drawable/card_spade9</item>
+        <item>@drawable/card_spade10</item>
+        <item>@drawable/card_spade11</item>
+        <item>@drawable/card_spade12</item>
+        <item>@drawable/card_spade13</item>
+        <item>@drawable/card_spade14</item>
+    </array>
+
+</resources>

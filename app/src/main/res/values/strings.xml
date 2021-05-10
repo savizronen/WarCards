@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WarCards</string>
+    <string name="main_activity">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="SelectorFragment">selector_fragment</string>
+    <string name="SettingsFragment">settings_fragment</string>
+    <string name="TopScoresFragment">topScores_fragment</string>
+    <string name="GameFragment">game_fragment</string>
+    <string name="WinnerFragment">winner_fragment</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="timer_pref_title">Timer</string>
+    <string name="timer_pref_on">ON</string>
+    <string name="timer_pref_off">OFF</string>
+    <string name="timer_pref_time">Repeat Every</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on the device. </string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for corefunctionality.</string>
+    <string name="settings">Settings</string>
+    <string name="apiKey">AIzaSyA8aV6HDEjQIVNNRNHrmcvBOADHK-i_Vk0</string>
+</resources>

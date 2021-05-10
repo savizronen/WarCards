@@ -1,0 +1,3 @@
+include ':LeonidsLib-1.3.2'
+include ':app'
+rootProject.name = "WarCards"
